@@ -1,6 +1,6 @@
-HUMAN RESOURCES ANALYTICS
+# HUMAN RESOURCES ANALYTICS
 
-1. INTRODUCTION
+## 1. INTRODUCTION
 
 Human Resources Analytics is of vital importance to any company. As the economic scenario keeps on changing 
 due to globalization, HR department also needs to adapt to this new change. Hence, retaining top talents is the
@@ -15,12 +15,12 @@ or workforce analytics aids the organizations to make workforce decisions by red
 predictive analytics which determines the future, mainly for the organizations seeking more proactive role in driving 
 business strategy.”
 
-HYPOTHESIS 
+### HYPOTHESIS 
 
 Null Hypothesis: No one left the company.
 Alternative Hypothesis: At least one left the company.
 
-2. DATA DESCRIPTION
+## 2. DATA DESCRIPTION
 
 After searching online for relevant datasets, I found the “Human Resources
 Analytics” hosted on Kaggle to be an ideal choice. The dataset had the
@@ -44,7 +44,7 @@ Fields in the dataset include:
 The variables ‘Sales’& ‘Salary’ are factor variables, while the rest were
 numeric variables.
 
-3. ANALYSIS
+## 3. ANALYSIS
 
 The dataset does not have any missing values, and thus not require any imputation.
 
